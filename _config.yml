@@ -1,4 +1,4 @@
-title: | "Advanced Navigation and 
+title: "Advanced Navigation and 
           Control Systems Laboratory"
 author: ""
 description: "University at Buffalo, The State University of New York"
@@ -33,4 +33,8 @@ comments:
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
- - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
