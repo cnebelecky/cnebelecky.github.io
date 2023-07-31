@@ -12,16 +12,17 @@ show_excerpts: false       # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
+show_social: true
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", icon: home, title: "About Home"}
-  - {file: "README.md", title: "About Me", icon: address-card}
+  - {file: "index.html", title: "About Home"}
+  - {file: "README.md", title: "About Me"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:ckn@buffalo.edu"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Website, icon: rss, url: "/feed.xml"}
   - {title: Github, icon: github, url: "https://github.com/cnebelecky"}
 
 comments:
