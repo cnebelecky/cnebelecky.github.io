@@ -4,10 +4,15 @@ title: "People"
 ---
 
 # Dr. John L. Crassidis, Ph. D
-<img src="/photos/crassidis.jpg" alt="drawing" style="width:200px;float: right"/><br>
-SUNY Distinguished Professor <br>
-Moog Endowed Chaired Professor of Innovation <br>
+<img src="/photos/crassidis.jpg" alt="drawing" style="width:200px;float: right"/>
+
+SUNY Distinguished Professor
+
+Moog Endowed Chaired Professor of Innovation
+
 Director, [Center for Multisource Information Fusion](https://www.buffalo.edu/cmif.html)
+
+---
 
 ## Grad Students
 
@@ -17,10 +22,16 @@ Director, [Center for Multisource Information Fusion](https://www.buffalo.edu/cm
 <img src="/photos/Stephen_Gagnon_pic.jpg" alt="drawing" style="width:150px; float: right"/><br>
 <br/><br/>
 
-***Christopher Gnam***<br>
-<img src="/photos/ChrisGnam.jpg" alt="drawing" style="width:150px; float: right"/><br>
+---
+
+***Christopher Gnam***
+
+<img src="/photos/ChrisGnam.jpg" alt="drawing" style="width:150px; float: right"/>
+
 *Topic*: Autonomous Terrain Relative Navigation and Mapping of Small Bodies
-<br/><br/>
+
+
+---
 
 ***Timothy (TJ) chase***<br>
 <img src="/photos/timchase.jpg" alt="drawing" style="width:150px; float: right"/><br>
@@ -30,6 +41,8 @@ Director, [Center for Multisource Information Fusion](https://www.buffalo.edu/cm
 ***Jean Niyomugabo***<br>
 <img src="/photos/jean_niyomugabo.jpg" alt="drawing" style="width:150px; float: right"/><br>
 <br/><br/>
+
+---
 
 ***Nicholas Accousti***<br>
 <img src="/photos/nick_accousti.jpg" alt="drawing" style="width:150px; float: right"/> <br>
