@@ -4,7 +4,7 @@ title: "People"
 ---
 
 # Dr. John L. Crassidis, Ph. D
-![Me](/photos/crassidis.jpg){:style="display: block;margin-left: auto;margin-right: auto;float: right;"}
+![Me](/photos/crassidis.jpg =100x){:style="display: block;margin-left: auto;margin-right: auto;float: right;"}
 SUNY Distinguished Professor
 Moog Endowed Chaired Professor of Innovation
 Director, [Center for Multisource Information Fusion](https://www.buffalo.edu/cmif.html)
@@ -24,11 +24,11 @@ Director, [Center for Multisource Information Fusion](https://www.buffalo.edu/cm
 ***Jean Niyomugabo***
 
 ***Nicholas Accousti***
-![Me](/photos/nick_accousti.jpg){:style="display: block;margin-left: auto;margin-right: auto;float: right;"}
+![Me](/photos/nick_accousti.jpg=100x){:style="display: block;margin-left: auto;margin-right: auto;float: left;"}
 Some stuff about Nick
 
 ***Andrew Swenson***
-![Me](/photos/andrew_swenson.jpg){:style="display: block;margin-left: auto;margin-right: auto;float: right;"}
+![Me](/photos/andrew_swenson.jpg=100x){:style="display: block;margin-left: auto;margin-right: auto;float: left;"}
 Some stuff about Andrew
 
 Mitch Thurston
