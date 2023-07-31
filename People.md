@@ -11,11 +11,7 @@ title: "People"
 
 # Ph.D
 ***Stephen Gagnon***
-some stuff about Steve 
 
-```
-Steves Topic
-```
 
 |***Christopher Gnam***|
 | chris title| chris year|
@@ -24,7 +20,8 @@ Timothy (TJ) chase
 
 Jean Niyomugabo
 
-Nicholar Accousti
+***Nicholas Accousti***
+![Me](/photos/nick_accousti.pg){:style="display: block;margin-left: auto;margin-right: auto;float: right;"}Some stuff about Nick
 
 Andrew Swenson
 
