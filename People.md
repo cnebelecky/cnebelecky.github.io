@@ -21,7 +21,7 @@ Timothy (TJ) chase
 Jean Niyomugabo
 
 ***Nicholas Accousti***
-![Me](/photos/nick_accousti.pg){:style="display: block;margin-left: auto;margin-right: auto;float: right;"}Some stuff about Nick
+![Me](/photos/nick_accousti.jpg){:style="display: block;margin-left: auto;margin-right: auto;float: right;"}Some stuff about Nick
 
 Andrew Swenson
 
