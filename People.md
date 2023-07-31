@@ -24,11 +24,11 @@ Director, [Center for Multisource Information Fusion](https://www.buffalo.edu/cm
 ***Jean Niyomugabo***
 
 ***Nicholas Accousti***
-![Me](/photos/nick_accousti.jpg=100x){:style="display: block;margin-left: auto;margin-right: auto;float: left;"}
+![Me](/photos/nick_accousti.jpg =100x){:style="display: block;margin-left: auto;margin-right: auto;float: left;"}
 Some stuff about Nick
 
 ***Andrew Swenson***
-![Me](/photos/andrew_swenson.jpg=100x){:style="display: block;margin-left: auto;margin-right: auto;float: left;"}
+![Me](/photos/andrew_swenson.jpg =100x){:style="display: block;margin-left: auto;margin-right: auto;float: left;"}
 Some stuff about Andrew
 
 Mitch Thurston
