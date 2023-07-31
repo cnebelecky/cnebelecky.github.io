@@ -10,9 +10,15 @@ title: "People"
 
 
 # Ph.D
-Stephen Gagnon
+***Stephen Gagnon***
+some stuff about Steve 
 
-Christopher Gnam
+```
+Steves Topic
+```
+
+|***Christopher Gnam***|
+| chris title| chris year|
 
 Timothy (TJ) chase
 
