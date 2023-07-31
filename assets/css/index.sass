@@ -10,14 +10,14 @@
 {% if site.minimal %}
 
 body > header
-  background: rgb(0, 0, 255)
-  color: rgb(0, 0, 255)
+  background: $dark
+  color: $light
   border-bottom: 1px solid reduce(14)
 
 {% else %}
 
 body > header
-  box-shadow: 0 0 .6em rgba($dark, 0.04)
+  box-shadow: 0 0 .6em rgba(rgb(0,0,255), 0.04)
   border-bottom: 1px solid reduce(14)
 
 {% endif %}
